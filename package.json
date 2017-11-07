@@ -1,0 +1,37 @@
+{
+	"thumbnail": "https://wnow-modules.s3.amazonaws.com/icon_stroke_news_articlelist.svg",
+	"tag": "nadia",
+	"affiliates": ["wnow"],
+	},
+	"components": [{
+		"propTypes": {
+		"title": "nadiatitle",
+		"layout": "nadialayout"}
+				"id": "qafrankly/DUA1-test",
+				"affiliates": [
+					"wnow"
+				],
+				"components": [{
+					"id": "components/media/Video",
+					"FRN_resourceEndpoints": [{
+						"url": "",
+						"type": "json"
+					}],
+					"FRN_style": {},
+					"props": {
+						"clipId": "",
+						"autoPlay": true,
+						"showDockedVideo": true,
+						"dockPosition": "top-left",
+						"wNVideoCanvasProps": []
+					}
+				}],
+				"FRN_style": {},
+				"props": {
+					"title": "nadiatesttitle 123",
+					"layout": "nadiatest layout 123"
+				}
+
+			}
+		]
+	}	
